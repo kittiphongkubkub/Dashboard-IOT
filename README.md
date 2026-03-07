@@ -6,6 +6,12 @@
 
 ---
 
+## 📸 ตัวอย่างหน้าเว็บ
+
+![Dashboard Preview](docs/screenshot-dashboard.png)
+
+---
+
 ## ✨ ฟีเจอร์หลัก
 
 | ฟีเจอร์ | รายละเอียด |
